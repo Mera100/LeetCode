@@ -1,4 +1,4 @@
-package majd.smallerNumberInArray1365;
+package majd.smaller_number_in_array1365;
 
 import java.util.Arrays;
 import java.util.HashMap;

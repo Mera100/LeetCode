@@ -1,4 +1,4 @@
-package majd.subtractProductSum1281;
+package majd.subtract_product_sum1281;
 
 import java.util.LinkedList;
 import java.util.List;

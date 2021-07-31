@@ -1,4 +1,4 @@
-package majd.concatenationArray1929;
+package majd.concatenation_array1929;
 
 class Solution {
     public int[] getConcatenation(int[] nums) {

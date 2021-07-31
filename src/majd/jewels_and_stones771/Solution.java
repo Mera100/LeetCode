@@ -1,4 +1,4 @@
-package majd.jewelsAndStones771;
+package majd.jewels_and_stones771;
 
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {

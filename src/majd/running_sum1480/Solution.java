@@ -1,4 +1,4 @@
-package majd.runningSum1480;
+package majd.running_sum1480;
 
 class Solution {
     public int[] runningSum(int[] nums) {

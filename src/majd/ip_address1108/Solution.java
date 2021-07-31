@@ -1,4 +1,4 @@
-package majd.ipAddress1108;
+package majd.ip_address1108;
 
 import javax.swing.tree.TreeNode;
 

@@ -1,4 +1,4 @@
-package majd.diciBinary1689;
+package majd.dici_binary1689;
 
 public class Solution {
 

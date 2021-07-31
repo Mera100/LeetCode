@@ -1,4 +1,4 @@
-package majd.parkingSystem1603;
+package majd.parking_system1603;
 
 /**
  * Your ParkingSystem object will be instantiated and called as such:

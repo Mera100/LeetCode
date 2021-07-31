@@ -1,4 +1,4 @@
-package majd.shuffleArray1470;
+package majd.shuffle_array1470;
 
 import java.util.Arrays;
 

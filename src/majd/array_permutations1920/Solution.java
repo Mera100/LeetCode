@@ -1,4 +1,4 @@
-package majd.arrayPermutations1920;
+package majd.array_permutations1920;
 
 class Solution {
     public int[] buildArray(int[] nums) {
